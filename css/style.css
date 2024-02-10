@@ -50,6 +50,7 @@ a:link {
 
 .contact-container {
     padding: 4px;
+    margin-top: 40px;
     flex-wrap: wrap;
     background-color: #af3039;
     color: #f8eff1;

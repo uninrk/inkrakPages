@@ -50,6 +50,7 @@ a:link {
 
 .contact-container {
     padding: 4px;
+    margin-top: 40px;
     flex-wrap: wrap;
     background-color: #af3039;
     color: #f8eff1;
@@ -94,11 +95,38 @@ p,
 }
 
 .content-item {
-    margin-top: 2px;
     padding: 6px;
+    margin-top: 2px;
     color: #af3039;
     background-color: #f1d2d4;
     border-radius: 12px;
+}
+
+.head-item {
+    font-size: large;
+    font-weight: bold;
+    text-align: left;
+    padding: 20px;
+}
+
+.head-item2 {
+    font-size: medium;
+    text-align: left;
+    padding-left: 40px;
+}
+
+.body-item {
+    font-size: small;
+    text-align: left;
+    margin-bottom: 15px;
+    padding: 15px;
+}
+
+.fas,
+.fa {
+    font-size: large;
+    letter-spacing: 15px;
+    background-color: #f1d2d4;
 }
 
 .pic {
